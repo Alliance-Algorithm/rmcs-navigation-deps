@@ -1,0 +1,15 @@
+[submodule "rmcs-navigation"]
+	path = rmcs-navigation
+	url = https://github.com/Alliance-Algorithm/rmcs-navigation.git
+[submodule "livox-ros-driver2"]
+	path = livox-ros-driver2
+	url = https://github.com/Alliance-Algorithm/livox_ros_driver2.git
+[submodule "rmcs-local-map"]
+	path = rmcs-local-map
+	url = https://github.com/Alliance-Algorithm/rmcs-local-map.git
+[submodule "odin-ros-driver"]
+	path = odin-ros-driver
+	url = https://github.com/Alliance-Algorithm/odin_ros_driver.git
+[submodule "point-lio"]
+	path = point-lio
+	url = https://github.com/Alliance-Algorithm/point_lio.git
