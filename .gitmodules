@@ -13,3 +13,6 @@
 [submodule "point-lio"]
 	path = point-lio
 	url = https://github.com/Alliance-Algorithm/point_lio.git
+[submodule "rmcs-localization"]
+	path = rmcs-localization
+	url = https://github.com/Alliance-Algorithm/rmcs-localization.git
