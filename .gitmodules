@@ -16,3 +16,6 @@
 [submodule "rmcs-localization"]
 	path = rmcs-localization
 	url = https://github.com/Alliance-Algorithm/rmcs-localization.git
+[submodule "rmcs-navigation-behaviors"]
+	path = rmcs-navigation-behaviors
+	url = https://github.com/gqsdjhh/rmcs-navigation-behaviors.git
